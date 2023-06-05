@@ -9,6 +9,7 @@
 3. react-query
 4. react-router-dom
 5. usehooks-ts
+6. custom fetch encapsulation
 
 ## Debug
 
