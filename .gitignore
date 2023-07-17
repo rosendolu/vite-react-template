@@ -28,3 +28,4 @@ debug/
 .eslintcache
 .eslintcache
 env/local.env
+thunder-tests/
